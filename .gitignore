@@ -1,0 +1,28 @@
+﻿# Visual Studio
+.vs/
+*.vscode/
+
+# Build output
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+
+# Cache/DB files
+*.db
+*.db-shm
+*.db-wal
+*.dbtmp
+*.cache
+
+# Logs
+*.log
+
+# Publish output
+*.pubxml
+*.pubxml.user
+
+# ASP.NET
+appsettings.Development.json
